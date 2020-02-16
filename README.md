@@ -1,16 +1,10 @@
 # README
 
-This is the url linked to our site:
+This is the url linked to the website:
 
 https://appweb-1e486.firebaseapp.com/
 
-Group Members:
 
-Da Lin 466982
-
-Feifan Liu 467573
-
-# New Features
 There are mainly two new features assoicated with small functions:
 
 - Real Time Update
