@@ -4,6 +4,15 @@ This is the url linked to the website:
 
 https://appweb-1e486.firebaseapp.com/
 
+If you encounter grpc errors after running npm install, please try to downgrade your node.js version as installing firebase may not work for the newest node version. You can try those commands:
+
+sudo npm cache clean -f
+
+sudo npm install -g n
+
+sudo n 10.13.0
+
+npm install firebase
 
 There are mainly two new features assoicated with small functions:
 
